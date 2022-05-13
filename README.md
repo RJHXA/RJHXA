@@ -16,5 +16,3 @@
 </div>
   
   ##
-
-![Snake animation](https://github.com/RJHXA/RJHXA/blob/output/github-contribution-grid-snake.svg)
