@@ -1,7 +1,7 @@
 ### OI, EU SOU RAFAEL!
 
 - 🔭 Estou na Faculdade!
-- 🌱 Estou apredendo Pyhton, C e Java!
+- 🌱 Estou aprendendo Pyhton, C e Java!
 
 <div align="center">
   <a href="https://github.com/RJHXA">
