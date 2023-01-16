@@ -4,13 +4,6 @@
 - 📓 Currenting leraning Java, SpringBoot, Angular and TypeScript;
 - 🔮 Looking to study next: Flutter, Xamarin and Unity;
 
-<div align="center">
-  <a href="https://github.com/RJHXA">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RJHXA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJHXA&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-
 ## How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeljhxalves/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjh_alves/)
@@ -28,3 +21,6 @@
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
  
+ ##
+![RJHXA GitHub stats](https://github-readme-stats.vercel.app/api?username=RJHXA&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
