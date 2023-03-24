@@ -28,4 +28,4 @@
  
  ##
 ![RJHXA GitHub stats](https://github-readme-stats.vercel.app/api?username=RJHXA&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJHXA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJHXA&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RJHXA&layout=compact)
