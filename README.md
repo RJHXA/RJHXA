@@ -1,8 +1,8 @@
 ## Hi, I'm Rafael!
 
-- 🎓 Computer Science at [CESAR School](https://www.cesar.school/);
-- 📓 Currenting leraning Java, SpringBoot, Angular and TypeScript;
-- 🔮 Looking to study next: Flutter, Xamarin and Unity;
+- Computer Science at [CESAR School](https://www.cesar.school/);
+- Software Engineer Intern at @avantsoftware;
+- Currenting leraning Machine Learning, Computer Vision, Django and NestJs;
 
 ## How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeljhxalves/)
