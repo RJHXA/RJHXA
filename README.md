@@ -1,7 +1,7 @@
 ## Hi, I'm Rafael!
 
 - Computer Science at [CESAR School](https://www.cesar.school/);
-- Software Engineer Intern at @avantsoftware;
+- Software Engineer at @avantsoftware;
 - Currenting leraning Machine Learning, Computer Vision, Django and NestJs;
 
 ## How to reach me:
