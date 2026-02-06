@@ -11,7 +11,7 @@
 ---
 
 # Hi, I'm Rafael!
-- 💻 I'm Junior Software Engineer at @avantsoftware;
+- 💻 I'm Junior Software Engineer at [@avantsoftware](https://github.com/avantsoftware);
 - 👨🏽‍🎓 Graduate Computer Science at [CESAR School](https://www.cesar.school/);
 - 👀 Currently working on an **MCP Server** to extract car information for **AI agents** as a side project
 - 🎮 Outside the office, I really enjoy **video games, movies, and tech in general**
