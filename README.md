@@ -13,7 +13,7 @@
 # Hi, I'm Rafael!
 - 💻 Software Engineer at [**@avantsoftware**](https://github.com/avantsoftware)
 - 👨🏽‍🎓 Computer Science graduate from [CESAR School](https://www.cesar.school/)
-- 👀 Currently working on an **MCP Server** to extract car information for **AI agents** as a side project
+- 👀 Currently working on an **Soccer Platform** to centralize extracted information to support staffs as a side project
 - 🎮 Outside the office, I really enjoy **video games, movies, and tech in general**
 - 📍 Recife, PE — Brazil 🇧🇷
 
