@@ -60,6 +60,4 @@
 
 ### 🗞️ Latest Activity
 
-*No public activity detected in the last 30 days.*
-
-> 🕒 *Last synced: 2026-09-27 03:25*
+⚠️ *Unable to fetch recent activity at the moment.*
